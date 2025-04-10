@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Build output
+dist/
+build/
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Optional npm cache
+.npm/
+
+# Debugger
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: if you're using MongoDB locally with dump/restore
+dump/
+
+# Optional: if you're using uploads
+uploads/
+public/uploads/
+
+# TypeScript cache (if using ts-node or TypeScript)
+*.tsbuildinfo
